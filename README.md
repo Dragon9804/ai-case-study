@@ -171,6 +171,95 @@ The last decade has seen major advances in how we analyze, search, and interact 
 
 * What are the other major companies in this field?
 
+The field of 3D data analysis and geometric search technology has seen significant growth and innovation, with many companies contributing to advancements across industries such as autonomous vehicles, robotics, manufacturing, augmented and virtual reality (AR/VR), healthcare, and more. Here are some of the major companies that are healping the field of 3D data analysis and geometric search technology grow:
+
+### 1. **Autodesk**
+   - **Industry:** Architecture, Engineering, Construction, Manufacturing, Media & Entertainment
+   - **Key Contributions:**
+     - Autodesk is a global leader in software for design and construction, with tools like **AutoCAD** and **Revit** for 2D and 3D design, **Fusion 360** for product design, and **Maya** and **3ds Max** for 3D modeling and animation.
+     - The company has been integrating AI and machine learning into its tools to improve 3D modeling, generative design, and simulation, enabling more efficient workflows for professionals in architecture, engineering, and construction.
+
+### 2. **NVIDIA**
+   - **Industry:** Graphics Processing, AI, Autonomous Vehicles, Robotics
+   - **Key Contributions:**
+     - **Omniverse Platform:** NVIDIA's Omniverse is a powerful platform for 3D simulation, collaboration, and digital twin creation, helping industries like manufacturing, entertainment, and architecture.
+     - **Deep Learning for 3D Vision:** NVIDIA has made significant advances in 3D object recognition, segmentation, and scene understanding through deep learning technologies.
+     - **CUDA and GPUs for 3D Rendering and Processing:** NVIDIA’s GPUs and CUDA platform enable powerful real-time 3D rendering, computational geometry, and AI model training, playing a crucial role in industries that require high-performance 3D analysis.
+
+### 3. **LiDAR Technology Providers (Velodyne, Luminar, and Ouster)**
+   - **Industry:** Autonomous Vehicles, Robotics, Mapping, Surveying
+   - **Key Contributions:**
+     - **Velodyne Lidar:** A leading provider of LiDAR sensors used in autonomous vehicles, robotics, and geospatial data collection. Velodyne’s LiDAR technology is essential for high-resolution 3D mapping and real-time environment perception.
+     - **Luminar:** Known for their long-range LiDAR sensors that offer high-definition 3D mapping capabilities, Luminar is a key player in autonomous driving technology.
+     - **Ouster:** Specializes in high-resolution, cost-effective LiDAR sensors for various industries, including robotics, security, and autonomous vehicles.
+
+### 4. **Apple**
+   - **Industry:** Consumer Electronics, Augmented Reality
+   - **Key Contributions:**
+     - **ARKit:** Apple’s augmented reality framework allows developers to create AR applications for iOS devices. ARKit includes features for 3D object recognition, real-time 3D mapping, and interaction with virtual objects in real-world environments.
+     - **LiDAR Scanner (in iPhones and iPads):** Apple's inclusion of LiDAR technology in its devices has significantly advanced 3D scanning, enabling accurate 3D mapping and object detection for AR applications.
+
+### 5. **Google (Alphabet)**
+   - **Industry:** Search, Cloud, Artificial Intelligence, Autonomous Vehicles
+   - **Key Contributions:**
+     - **ARCore:** Google’s AR platform for Android devices, which provides advanced 3D spatial understanding and environmental mapping for augmented reality experiences.
+     - **Google Maps and Street View:** Google uses 3D data extensively for mapping and visualization through its Google Maps and Street View services. Google also leverages deep learning and 3D models for enhanced navigation and search functionality.
+     - **Project Tango (now part of ARCore):** Project Tango was an ambitious initiative focused on 3D mapping and spatial understanding for mobile devices, now integrated into ARCore.
+
+### 6. **Microsoft**
+   - **Industry:** Software, Cloud Computing, AI, Mixed Reality
+   - **Key Contributions:**
+     - **HoloLens:** Microsoft’s mixed reality platform combines 3D holograms with the real world. It’s used in industries ranging from healthcare to manufacturing for training, design, and remote collaboration.
+     - **Azure Kinect DK:** This device offers a combination of depth sensing, AI, and spatial analysis for applications in healthcare, robotics, and manufacturing.
+     - **3D for Office and Teams:** Microsoft has incorporated 3D data analysis in collaboration tools like Office 365 and Microsoft Teams for virtual meetings and design reviews.
+
+### 7. **3D Systems**
+   - **Industry:** 3D Printing, Manufacturing, Healthcare
+   - **Key Contributions:**
+     - **3D Printing Solutions:** 3D Systems provides end-to-end solutions for 3D printing, including hardware, software, and materials. Their solutions are used for prototyping, product design, and manufacturing in industries like aerospace, automotive, healthcare, and education.
+     - **Geometric Data Processing and Modeling:** The company offers software tools that integrate with CAD systems for efficient design, modeling, and analysis of 3D data.
+
+### 8. **PTC (Parametric Technology Corporation)**
+   - **Industry:** Software (CAD, PLM), Manufacturing, IoT
+   - **Key Contributions:**
+     - **Creo:** PTC’s Creo is a widely used CAD tool for designing 3D models and performing simulations. It supports generative design, advanced simulations, and direct 3D modeling.
+     - **ThingWorx:** A leading platform for the Internet of Things (IoT) that integrates with CAD and other 3D tools for monitoring, analysis, and predictive maintenance.
+
+### 9. **Trimble**
+   - **Industry:** Geospatial, Construction, Agriculture
+   - **Key Contributions:**
+     - **Geospatial Data Solutions:** Trimble offers a variety of solutions for 3D data collection, including survey-grade GPS, LiDAR, and photogrammetry tools for precise mapping and modeling.
+     - **3D Construction Solutions:** Trimble's software and hardware tools are used for 3D design and analysis in construction, from digital twin creation to construction planning and management.
+
+### 10. **Sense 3D (now part of Matterport)**
+   - **Industry:** 3D Scanning, Real Estate, Architecture
+   - **Key Contributions:**
+     - **Matterport:** Originally focused on creating 3D models of physical spaces using depth sensors, Matterport now provides a platform that offers 3D capture, visualization, and spatial data analysis for industries such as real estate, architecture, and facilities management.
+
+### 11. **Siemens**
+   - **Industry:** Automation, Manufacturing, Digital Twin
+   - **Key Contributions:**
+     - **NX and Solid Edge:** Siemens provides powerful tools for 3D CAD design, simulation, and digital prototyping. These tools integrate with Siemens' PLM (Product Lifecycle Management) and manufacturing solutions.
+     - **Digital Twin Technology:** Siemens is a leader in developing digital twin technologies, using 3D models and real-time data to optimize product design, performance, and maintenance.
+
+### 12. **RealityCapture (Capturing Reality)**
+   - **Industry:** 3D Scanning, Mapping, Gaming, Architecture
+   - **Key Contributions:**
+     - **RealityCapture:** This software is one of the leading tools for photogrammetry, creating 3D models from 2D images and LiDAR data. It is widely used for applications in surveying, construction, archaeology, and virtual reality.
+
+### 13. **Topcon**
+   - **Industry:** Surveying, Construction, Agriculture
+   - **Key Contributions:**
+     - **3D Positioning and Geospatial Solutions:** Topcon offers advanced 3D data collection, positioning, and modeling tools for industries like construction, surveying, and agriculture. Their products often integrate with GPS, LiDAR, and other sensors to provide accurate 3D mapping and analysis.
+
+### 14. **Fast Radius**
+   - **Industry:** Additive Manufacturing, Digital Manufacturing
+   - **Key Contributions:**
+     - **Cloud-Based 3D Design and Manufacturing Platform:** Fast Radius uses cloud-based tools for digital design, 3D printing, and manufacturing. The platform enables businesses to rapidly prototype, test, and produce parts based on 3D data.
+
+### Conclusion
+The field of 3D data analysis and geometric search technology is highly diverse, encompassing companies across multiple industries. From leading tech giants like **NVIDIA**, **Google**, and **Apple** pushing boundaries in AI, AR/VR, and autonomous systems to specialized firms in **3D printing**, **LiDAR**, and **geospatial technologies** like **3D Systems**, **Velodyne**, and **Trimble**, these companies are at the forefront of innovations in 3D data processing, geometric search, and real-world applications. Each contributes with cutting-edge technologies that power everything from consumer apps to industrial solutions, reshaping how we design, manufacture, and interact with the physical world.
+
 ## Results
 
 * What has been the business impact of this company so far?
