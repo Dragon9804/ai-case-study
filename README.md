@@ -8,17 +8,25 @@
 
 * Who are the founders of the company?  Paul Powers
 
-* How did the idea for the company (or project) come about?  Physna feels that computers should be taught to accurately think in 3D.  Such as sorting and analyzing geometric objects like written code.  They dream of a future where people have the tools they need to design and analyze the parts products that shape our world.  To create and push innovation in product design, 3D printing, augmented and virtual reality, gaming, healthcare, and more.
+* How did the idea for the company (or project) come about?
 
-* How is the company funded? The compny is funded by the following investors:  Drive Capital, Google Ventures, Tiger Global Management, and Sequoia Capital. 
+Physna feels that computers should be taught to accurately think in 3D.  Such as sorting and analyzing geometric objects like written code.  They dream of a future where people have the tools they need to design and analyze the parts products that shape our world.  To create and push innovation in product design, 3D printing, augmented and virtual reality, gaming, healthcare, and more.
+
+* How is the company funded?
+
+Physna is funded by the following investors:  Drive Capital, Google Ventures, Tiger Global Management, and Sequoia Capital. 
 
   How much funding have they received?  Latest funding round:  Series B, July 01, 2021, $56M
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?  Physna is trying enhance how companies handle 3D data.
+* What specific problem is the company or project trying to solve?
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?  Their intended customers are both business and consumer, no market size is given.
+Physna is trying enhance how companies handle 3D data.
+
+* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+
+Physna targets area where 3D modeling, part compatibility, design optimization, and supply chain management are key elements of their production process.  Given this scope, the market size is very large.
 
 * Which technologies are they currently using, and how are they implementing them? 
 
