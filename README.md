@@ -2,15 +2,17 @@
 
 ## Overview and Origin
 
-* Name of company
+* Name of Company - Physna
 
-* When was the company incorporated?
+* Date of incorporation - December 31, 2014
 
-* Who are the founders of the company?
+* Who are the founders of the company?  Paul Powers
 
-* How did the idea for the company (or project) come about?
+* How did the idea for the company (or project) come about?  Physna feels that computers should be taught to accurately think in 3D.  Such as sorting and analyzing geometric objects like written code.  They dream of a future where people have the tools they need to design and analyze the parts products that shape our world.  To create and push innovation in product design, 3D printing, augmented and virtual reality, gaming, healthcare, and more.
 
-* How is the company funded? How much funding have they received?
+* How is the company funded? The compny is funded by the following investors:  Drive Capital, Google Ventures, Tiger Global Management, and Sequoia Capital. 
+
+How much funding have they received?  Latest funding round:  Series B, July 01, 2021, $56M
 
 ## Business Activities
 
