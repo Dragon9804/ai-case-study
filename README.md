@@ -20,8 +20,6 @@
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?  Their intended customers are both business and consumer, no market size is given.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
 * Which technologies are they currently using, and how are they implementing them? 
 
 Physna uses several advanced technologies to power its platform for 3D model search, comparison, and optimization. Here are some of the key technologies that Physna uses:
