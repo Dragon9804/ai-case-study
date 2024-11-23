@@ -16,7 +16,7 @@ Physna feels that computers should be taught to accurately think in 3D.  Such as
 
 Physna is funded by the following investors:  Drive Capital, Google Ventures, Tiger Global Management, and Sequoia Capital. 
 
-  How much funding have they received?  Latest funding round:  Series B, July 01, 2021, $56M
+  How much funding have they received?  Latest funding round:  $86M
 
 ## Business Activities
 
