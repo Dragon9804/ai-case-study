@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-* Name of Company - Physna
+* Name of Company - **Physna**
 
 * Date of incorporation - December 31, 2014
 
