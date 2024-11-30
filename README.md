@@ -189,7 +189,7 @@ The field of 3D data analysis and geometric search technology has seen significa
 ### 3. **LiDAR Technology Providers (Velodyne, Luminar, and Ouster)**
    - **Industry:** Autonomous Vehicles, Robotics, Mapping, Surveying
    - **Key Contributions:**
-     - **Velodyne Lidar:** A leading provider of LiDAR sensors used in autonomous vehicles, robotics, and geospatial data collection. Velodyne’s LiDAR technology is essential for high-resolution 3D mapping and real-time environment perception.
+     - **Velodyne Lidar (merged with Ouster):** A leading provider of LiDAR sensors used in autonomous vehicles, robotics, and geospatial data collection. Velodyne’s LiDAR technology is essential for high-resolution 3D mapping and real-time environment perception.
      - **Luminar:** Known for their long-range LiDAR sensors that offer high-definition 3D mapping capabilities, Luminar is a key player in autonomous driving technology.
      - **Ouster:** Specializes in high-resolution, cost-effective LiDAR sensors for various industries, including robotics, security, and autonomous vehicles.
 
@@ -542,4 +542,28 @@ By leveraging these technologies, **Physna** could significantly enhance its cap
 [Autodesk](https://www.autodesk.com/)
 
 [Dassault Systems](https://www.3ds.com/)
+
+[NVIDIA](https://www.nvidia.com/en-us/)
+
+[Ouster](https://ouster.com/)
+
+[Luminar](https://investors.luminartech.com/about-luminar#:~:text=Plus%20selected%20Luminar%20as%20the,driving%20systems%20for%20commercial%20vehicles.&text=Gatik%20selected%20Luminar%20as%20the,next%2Dgenerations%20of%20Gatik%20vehicles.)
+
+[Apple](https://www.apple.com/)
+
+[Google](https://about.google/)
+
+[Microsoft](https://www.microsoft.com/en-us/)
+
+[3D Systems](https://www.3dsystems.com/)
+
+[PTC](https://www.ptc.com/en)
+
+[Trimble](https://www.trimble.com/en)
+
+[Matterport](https://matterport.com/)
+
+[RealityCapture](https://www.capturingreality.com/)
+
+[Topcon](https://global.topcon.com/)
 
