@@ -557,6 +557,8 @@ By leveraging these technologies, **Physna** could significantly enhance its cap
 
 [![3D Systems](/images/3D_Systems.jpg)](https://www.3dsystems.com/)
 
+<br>
+
 [![PTC](/images/PTC_Logo.png)](https://www.ptc.com/en)
 
 [![Trimble](/images/Trimble_logo.png)](https://www.trimble.com/en)
