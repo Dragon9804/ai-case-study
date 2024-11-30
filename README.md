@@ -468,7 +468,11 @@ Overall, **Physna is excelling in its niche** and showing strong growth compared
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
+I would suggest venturing into **Biomaterial Design**.  Using 3D modeling and AI to help design new types of biocompatible materials for medical implants, prosthetics, or tissue engineering.
+
 * Why do you think that offering this product or service would benefit the company?
+
+In biomaterial design, optimizing properties such as strength, elasticity, and bio-compatibility is critical. Physna’s algorithms could help identify the best material compositions and geometries to achieve these goals, whether in drug delivery systems, artificial organs, or biocompatible implants.
 
 * What technologies would this additional product or service utilize?
 
