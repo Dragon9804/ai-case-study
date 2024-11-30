@@ -525,3 +525,15 @@ To successfully expand into **biomaterial design**, **Physna** could leverage a 
 
 By leveraging these technologies, **Physna** could significantly enhance its capacity to contribute to **biomaterial design**, offering highly optimized, customizable, and scientifically validated solutions for industries like healthcare, biotechnology, and regenerative medicine. These technologies would allow Physna to innovate in areas such as **personalized medicine**, **tissue engineering**, and **3D bioprinting**, thereby positioning itself as a key player in this rapidly growing and high-impact field.
 
+## Works Cited
+
+[Physna](https://www.physna.com/about-us)
+
+[Sequoia Capital](https://www.sequoiacap.com/)
+
+[Drive Capital](https://drivecapital.com/)
+
+[Google Ventures](https://www.gv.com/)
+
+[Tiger Global](https://www.tigerglobal.com/)
+
