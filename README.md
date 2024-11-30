@@ -533,6 +533,8 @@ By leveraging these technologies, **Physna** could significantly enhance its cap
 
 [![Drive Capital](/images/drive_logo.jpg)](https://drivecapital.com/)
 
+<br><br>
+
 [![Google Ventures](/images/GV_logo.svg.png)](https://www.gv.com/)
 
 [![Tiger Global](/images/TigerGlobal.png)](https://www.tigerglobal.com/)
@@ -543,9 +545,15 @@ By leveraging these technologies, **Physna** could significantly enhance its cap
 
 [![Dassault Systems](/images/Dassault.jpg)](https://www.3ds.com/)
 
+<br><br>
+
 [![NVIDIA](/images/NVIDIA_logo.png)](https://www.nvidia.com/en-us/)
 
+<br><br>
+
 [![Ouster](/images/Ouster.png)](https://ouster.com/)
+
+<br><br>
 
 [![Luminar](/images/Luminar.png)](https://investors.luminartech.com/about-luminar#:~:text=Plus%20selected%20Luminar%20as%20the,driving%20systems%20for%20commercial%20vehicles.&text=Gatik%20selected%20Luminar%20as%20the,next%2Dgenerations%20of%20Gatik%20vehicles.)
 
@@ -565,9 +573,15 @@ By leveraging these technologies, **Physna** could significantly enhance its cap
 
 [![Trimble](/images/Trimble_logo.png)](https://www.trimble.com/en)
 
+<br><br>
+
 [![Matterport](/images/Matterport_logo.png)](https://matterport.com/)
 
+<br><br>
+
 [![RealityCapture](/images/rc_logo.png)](https://www.capturingreality.com/)
+
+<br><br>
 
 [![Topcon](/images/Topcon_logo.png)](https://global.topcon.com/)
 
