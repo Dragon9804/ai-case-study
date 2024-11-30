@@ -537,3 +537,9 @@ By leveraging these technologies, **Physna** could significantly enhance its cap
 
 [Tiger Global](https://www.tigerglobal.com/)
 
+[Siemens](https://www.siemens.com/global/en.html)
+
+[Autodesk](https://www.autodesk.com/)
+
+[Dassault Systems](https://www.3ds.com/)
+
