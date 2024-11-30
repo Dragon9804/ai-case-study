@@ -75,6 +75,8 @@ Physna’s key differentiators include:
 
 In summary, Physna's advanced use of **AI**, **machine learning**, and **3D geometry analysis** allows it to offer solutions that are more efficient, scalable, and precise than traditional 3D model search and comparison tools, giving it a competitive edge in industries where part compatibility, reverse engineering, and design optimization are crucial.
 
+<br>
+
 * **Which technologies are they currently using, and how are they implementing them?** 
 
 Physna uses several advanced technologies to power its platform for 3D model search, comparison, and optimization. Here are some of the key technologies that Physna uses:
@@ -168,6 +170,8 @@ Over the past 5-10 years, 3D data analysis and geometric search technology have 
 
 ### Conclusion
 The last decade has seen major advances in how we analyze, search, and interact with 3D data. These innovations are transforming industries from robotics and autonomous vehicles to entertainment, manufacturing, and healthcare. The integration of deep learning, real-time processing, and AI-driven tools has opened up new possibilities for both understanding and creating in 3D spaces, with significant implications for design, production, and human-computer interaction.
+
+<br>
 
 * **What are the other major companies in this field?**
 
