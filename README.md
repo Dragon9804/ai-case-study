@@ -1,4 +1,4 @@
-# 3D data analysis and geometric search
+# 3D Data Analysis and Geometric Search
 
 ## Overview and Origin
 
