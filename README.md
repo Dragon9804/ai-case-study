@@ -1,4 +1,4 @@
-# <span style="color: blue;">3D Data Analysis and Geometric Search</span>
+# 3D Data Analysis and Geometric Search
 
 ## Overview and Origin
 
