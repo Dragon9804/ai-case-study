@@ -1,4 +1,4 @@
-# TITLE
+# 3D data analysis and geometric search
 
 ## Overview and Origin
 
