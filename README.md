@@ -529,41 +529,41 @@ By leveraging these technologies, **Physna** could significantly enhance its cap
 
 [![Physna Logo](/images/Physna.jpeg)](https://www.physna.com/about-us)
 
-[Sequoia Capital](https://www.sequoiacap.com/)
+[![Sequoia Capital](/images/Sequoia.png)](https://www.sequoiacap.com/)
 
-[Drive Capital](https://drivecapital.com/)
+[![Drive Capital](/images/drive_logo.jpg)](https://drivecapital.com/)
 
-[Google Ventures](https://www.gv.com/)
+[![Google Ventures](/images/GV_logo.svg.png)](https://www.gv.com/)
 
-[Tiger Global](https://www.tigerglobal.com/)
+[![Tiger Global](/images/TigerGlobal.png)](https://www.tigerglobal.com/)
 
-[Siemens](https://www.siemens.com/global/en.html)
+[![Siemens](/images/Siemens.jpg)](https://www.siemens.com/global/en.html)
 
-[Autodesk](https://www.autodesk.com/)
+[![Autodesk](/images/Autodesk.png)](https://www.autodesk.com/)
 
-[Dassault Systems](https://www.3ds.com/)
+[![Dassault Systems](/images/Dassault.jpg)](https://www.3ds.com/)
 
-[NVIDIA](https://www.nvidia.com/en-us/)
+[![NVIDIA](/images/NVIDIA_logo.png)](https://www.nvidia.com/en-us/)
 
-[Ouster](https://ouster.com/)
+[![Ouster](/images/Ouster.png)](https://ouster.com/)
 
-[Luminar](https://investors.luminartech.com/about-luminar#:~:text=Plus%20selected%20Luminar%20as%20the,driving%20systems%20for%20commercial%20vehicles.&text=Gatik%20selected%20Luminar%20as%20the,next%2Dgenerations%20of%20Gatik%20vehicles.)
+[![Luminar](/images/Luminar.png)](https://investors.luminartech.com/about-luminar#:~:text=Plus%20selected%20Luminar%20as%20the,driving%20systems%20for%20commercial%20vehicles.&text=Gatik%20selected%20Luminar%20as%20the,next%2Dgenerations%20of%20Gatik%20vehicles.)
 
-[Apple](https://www.apple.com/)
+[![Apple](/images/Apple_logo.png)](https://www.apple.com/)
 
-[Google](https://about.google/)
+[![Google](/images/Google_logo.png)](https://about.google/)
 
-[Microsoft](https://www.microsoft.com/en-us/)
+[![Microsoft](/images/Microsoft_logo.png)](https://www.microsoft.com/en-us/)
 
-[3D Systems](https://www.3dsystems.com/)
+[![3D Systems](/images/3D_Systems.jpg)](https://www.3dsystems.com/)
 
-[PTC](https://www.ptc.com/en)
+[![PTC](/images/PTC_Logo.png)](https://www.ptc.com/en)
 
-[Trimble](https://www.trimble.com/en)
+[![Trimble](/images/Trimble_logo.png)](https://www.trimble.com/en)
 
-[Matterport](https://matterport.com/)
+[![Matterport](/images/Matterport_logo.png)](https://matterport.com/)
 
-[RealityCapture](https://www.capturingreality.com/)
+[![RealityCapture](/images/rc_logo.png)](https://www.capturingreality.com/)
 
-[Topcon](https://global.topcon.com/)
+[![Topcon](/images/Topcon_logo.png)](https://global.topcon.com/)
 
