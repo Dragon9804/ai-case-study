@@ -533,7 +533,6 @@ By leveraging these technologies, **Physna** could significantly enhance its cap
 
 [![Drive Capital](/images/drive_logo.jpg)](https://drivecapital.com/)
 
-
 [![Google Ventures](/images/GV_logo.svg.png)](https://www.gv.com/)
 
 [![Tiger Global](/images/TigerGlobal.png)](https://www.tigerglobal.com/)
