@@ -527,7 +527,7 @@ By leveraging these technologies, **Physna** could significantly enhance its cap
 
 ## Works Cited
 
-[Physna](https://www.physna.com/about-us)
+[![Physna Logo](/images/Physna.jpeg)](https://www.physna.com/about-us)
 
 [Sequoia Capital](https://www.sequoiacap.com/)
 
